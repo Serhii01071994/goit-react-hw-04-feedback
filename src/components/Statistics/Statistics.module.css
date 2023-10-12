@@ -1,0 +1,11 @@
+.statistics {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+.results {
+  color: grey;
+}
+.items {
+  margin-bottom: 20px;
+}
